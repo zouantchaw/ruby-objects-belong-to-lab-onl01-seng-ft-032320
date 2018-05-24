@@ -1,5 +1,7 @@
 # Ruby Objects Belong To Lab
 
+Tokenize it
+
 ## Objectives
 
 * Write classes that are related via the "belongs to" relationship. 
